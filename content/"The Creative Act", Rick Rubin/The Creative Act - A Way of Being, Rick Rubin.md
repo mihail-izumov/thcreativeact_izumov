@@ -1,17 +1,17 @@
 ---
 author: Rick Rubin
-category: 
 publisher: Издательская группа Penguin
 publishdate: 17.01.2023
 pages: 
 cover: 
-rating:
+rating: 
 datein: 15.03.2023
 dateread: 2023.04.01
 status: complete
 title: The Creative Act - A Way of Being
-dg-permalink: "the-creative-act-by-rick-rubin"
+dg-permalink: the-creative-act-by-rick-rubin
 dg-publish: true
+draft:
 ---
 # The Creative Act: A Way of Being
 **Автор: [[Rick Rubin]]**

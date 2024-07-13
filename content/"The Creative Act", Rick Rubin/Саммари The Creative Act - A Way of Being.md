@@ -1,7 +1,7 @@
 ---
 title: Саммари на русском The Creative Act - A Way of Being - Rick Rubin
-dg-permalink: summary-the-creative-act-rick-rubin
-draft:
+draft: 
+link: summary-the-creative-act-rick-rubin
 ---
 
 # Саммари - The Creative Act: A Way of Being,  [[Rick Rubin]]
