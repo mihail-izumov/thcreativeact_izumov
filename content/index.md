@@ -11,7 +11,7 @@ draft: false
 >**В 2023 году я закрыл [Бюро Михаила Изюмова](https://izumovbrands.ru/), чтобы запустить [Модуль Роста™](https://kto1.io/) и начать всё сначала.**
 >**Кроме того, я консультирую, веду блог и пишу книгу. Мой главный интерес сейчас - это Искусственный Интеллект и всё, что с ним связано. Поэтому я строю бизнес на основе ИИ и много читаю о философии, социологии и биологии.**
 
-
+[[Саммари The Creative Act - A Way of Being]]
 # Почитать
 ## [**Чудесная Гостиная**](https://t.me/izumov) – Канал в Телеграм
 
@@ -26,17 +26,10 @@ draft: false
 
 ![[Подкаст Чудесной Гостиной#Выпуск №1, 19.04.2024]]
 
-## Пишу и публикую книгу
 
-Я верю, что креативность - это не редкая способность избранных, а фундаментальный аспект человеческого бытия, право по рождению для всех нас. Таким образом творчество — это способ существования в мире и поэтому эта книга о творческом способе жить. Я знаю это наверняка, потому что помогаю творческим профессионалам делать их лучшую работу [[100 фактов обо мне|половину своей жизни]].
-
- <div style="display: flex; justify-content: left; cursor: pointer;"> <a href="/creative-works/contents/"> <button style=" font-size: 22px; padding: 10px; height: fit-content; margin-top: 10px; margin-bottom: 40px; background: var(--text-accent); font-weight: 600; color: var(--text-on-accent); ">Читать книгу</button> </a></div> 
-
-## Публикую заметки в цифровом саду
-
- <div style="display: flex; justify-content: left; cursor: pointer;"> <a href="/notes"> <button style=" font-size: 22px; padding: 10px; height: fit-content; margin-top: 10px; margin-bottom: 40px; background: var(--text-accent); font-weight: 600; color: var(--text-on-accent); ">Читать заметки</button> </a></div> 
-
-## Делаю публикации в СМИ
+- Публикую заметки в цифровом саду
+- Делаю публикации в СМИ
+- 
 ```dataview 
 Table 
 rows.file.link AS "Публикация",
