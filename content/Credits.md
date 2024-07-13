@@ -1,7 +1,7 @@
 ---
 title: Информация о сайте
-dg-permalink: credits
-draft:
+draft: 
+link: credits
 ---
 
 
