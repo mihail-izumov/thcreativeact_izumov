@@ -4,6 +4,7 @@ link: "[vc.ru](https://vc.ru/life/668055-100-sovetov-ot-rika-rubina-dlya-tvorche
 date: 17.04.2023
 status: published
 dg-publish: true
+draft: false
 ---
 
 [100 советов от Рика Рубина для творческих профессионалов - Саммари книги "The Creative Act: A Way of Being" — Личный опыт на vc.ru](https://vc.ru/life/668055-100-sovetov-ot-rika-rubina-dlya-tvorcheskih-professionalov-sammari-knigi-the-creative-act-a-way-of-being)
