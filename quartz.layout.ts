@@ -8,7 +8,7 @@ export const sharedPageComponents: SharedLayout = {
   afterBody: [],
   footer: Component.Footer({
     links: {
-      "Информация о сайте": "https://mihail-izumov.github.io/thcreativeact_izumov/Credits",
+      "Информация о сайте": "https://izumov.thecreativeact.ru/Credits",
       "Контакт": "mailto:izumov@thecreativeact.ru"
     },
   }),
