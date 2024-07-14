@@ -5,6 +5,7 @@ import { googleFontHref } from "../util/theme"
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
 
 export default (() => {
+  
   const Head: QuartzComponent = ({ cfg, fileData, externalResources }: QuartzComponentProps) => {
     const title = fileData.frontmatter?.title ?? i18n(cfg.locale).propertyDefaults.title
     const description =
@@ -19,6 +20,7 @@ export default (() => {
     const ogImagePath = `https://${cfg.baseUrl}/static/og-image.png`
 
     return (
+      
       <head>
         <title>{title}</title>
         <meta charSet="utf-8" />
@@ -44,9 +46,12 @@ export default (() => {
         {js
           .filter((resource) => resource.loadTime === "beforeDOMReady")
           .map((res) => JSResourceToScriptElement(res, true))}
+          
       </head>
+      
     )
   }
+  
 
   return Head
 }) satisfies QuartzComponentConstructor
