@@ -27,3 +27,4 @@ draft: false
 **Хотите что-то сказать? Я отвечаю [в Телеграм](https://t.me/mikhail_izumov) и <a href = "mailto: izumov@thecreativeact.ru">на email </a>**
 
 [[123]]
+[[1234]]
