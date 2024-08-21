@@ -12,18 +12,8 @@ export default ((opts?: Options) => {
     const year = new Date().getFullYear()
     const links = opts?.links ?? []
     return (
-      <footer class={`${displayClass ?? ""}`}>
-      <p>
-          <b><a href="https://thecreativeact.ru" target="_blank">Чудесная Гостиная</a> – это Сообщество</b> <b><a href="https://kto1.io/" target="_blank">Модуля Роста™</a></b>
-        </p>
-        <ul>
-          {Object.entries(links).map(([text, link]) => (
-            <li>
-              <a href={link}>{text}</a>
-            </li>
-          ))}
-        </ul>
-        <p>© Модуль Роста™ 2024 | Сделано с ♥ в Самаре</p>
+      <footer class={`${displayClass ?? ""}`}> 
+        <p>© 2024 Михаил Изюмов</p>
       </footer>
     )
   }
