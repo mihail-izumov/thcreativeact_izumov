@@ -13,6 +13,13 @@ export default ((opts?: Options) => {
     const links = opts?.links ?? []
     return (
       <footer class={`${displayClass ?? ""}`}> 
+        <ul>
+          {Object.entries(links).map(([text, link]) => (
+            <li>
+              <a href={link}>{text}</a>
+            </li>
+          ))}
+        </ul>
         <p>© 2024 Михаил Изюмов</p>
       </footer>
     )
