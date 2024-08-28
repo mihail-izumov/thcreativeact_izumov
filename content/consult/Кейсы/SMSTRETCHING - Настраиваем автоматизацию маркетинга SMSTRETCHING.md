@@ -1,5 +1,5 @@
 ---
-title: SMSTRETCHING - Настраиваем автоматизацию маркетинга SMSTRETCHING - Бюро Михаила Изюмова
+title: SMSTRETCHING - Настраиваем автоматизацию маркетинга SMSTRETCHING
 dg-permalink: /cases/smstretching-marketing
 dg-publish: false
 ---
