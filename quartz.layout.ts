@@ -8,7 +8,7 @@ export const sharedPageComponents: SharedLayout = {
   afterBody: [],
   footer: Component.Footer({
     links: {
-      "Кто первый": '<a href="https://thecreativeact.ru" target="_blank" rel="noopener noreferrer">Кто первый</a>',
+      "Кто первый": "https://thecreativeact.ru",
       "Телеграм-канал": "https://t.me/izumov",
       "Контакт": "mailto:izumov@thecreativeact.ru",
       //"Оферта": "https://izumov.thecreativeact.ru/docs/oferta",
