@@ -2,6 +2,7 @@
 title: WOODLED - With light from Russia
 dg-permalink: /cases/woodled-strategy
 dg-publish: false
+draft: true
 ---
 # WOODLED - With light from Russia
 ## Стратегия развития производства и продаж дизайнерских светильников

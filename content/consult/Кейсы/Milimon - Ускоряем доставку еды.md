@@ -2,6 +2,7 @@
 title: Milimon - Ускоряем доставку еды
 dg-permalink: /cases/milimon-delivery
 dg-publish: false
+draft: true
 ---
 # Milimon - Ускоряем доставку еды
 ## Объедияем службы доставки 30 ресторанов в единый слаженный бизнес-процесс

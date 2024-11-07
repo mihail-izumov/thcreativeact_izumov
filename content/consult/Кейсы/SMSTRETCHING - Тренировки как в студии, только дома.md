@@ -2,6 +2,7 @@
 title: SMSTRETCHING - Тренировки как в студии, только дома
 dg-permalink: /cases/smstretching-strategy
 dg-publish: false
+draft: true
 ---
 # SMSTRETCHING - Тренировки как в студии, только дома
 ## Стратегия развития сети фитнес-студий
@@ -38,7 +39,7 @@ dg-publish: false
 	- Составили план продаж для каждой студии на год, учли факторы сезонности, локации и коэффициент загрузки
 
 [Посетить SMSTRETCHING](https://smstretching.ru/)
-[[SMSTRETCHING - Настраиваем автоматизацию маркетинга SMSTRETCHING]]
+[[SMSTRETCHING - Автоматизируем маркетинг фитнеса]]
 
 ---
 ## Провели экспертизу продаж и изучили специфику фитнес-бизнеса SMSTRETCHING

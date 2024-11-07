@@ -2,6 +2,7 @@
 title: SMSTRETCHING - Настраиваем автоматизацию маркетинга SMSTRETCHING
 dg-permalink: /cases/smstretching-marketing
 dg-publish: false
+draft: true
 ---
 # SMSTRETCHING - Настраиваем автоматизацию маркетинга SMSTRETCHING
 ## Исходная ситуация
