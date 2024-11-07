@@ -8,12 +8,12 @@ export const sharedPageComponents: SharedLayout = {
   afterBody: [],
   footer: Component.Footer({
     links: {
+      "Кто первый": "https://thecreativeact.ru",
       "Телеграм-канал": "https://t.me/izumov",
-      "Информация о сайте": "https://izumov.thecreativeact.ru/Credits",
       "Контакт": "mailto:izumov@thecreativeact.ru",
       //"Оферта": "https://izumov.thecreativeact.ru/docs/oferta",
       //"Политика конфиденциальности": "https://izumov.thecreativeact.ru/docs/politic",
-      "Чудесная Гостиная": "https://thecreativeact.ru"
+      "Информация о сайте": "https://izumov.thecreativeact.ru/Credits"
     },
   }),
 }
